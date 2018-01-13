@@ -1,0 +1,4 @@
+image_width,image_height,box_xmin,box_xmax,box_ymin,box_ymax,predicted_word
+960,1280,590,740,668,760,dry
+960,1280,565,755,769,851,riser
+960,1280,368,918,445,881,lex

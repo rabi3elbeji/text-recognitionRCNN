@@ -1,0 +1,2 @@
+image_width,image_height,box_xmin,box_xmax,box_ymin,box_ymax,predicted_word
+1280,960,438,840,534,644,moto

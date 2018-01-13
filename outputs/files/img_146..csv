@@ -1,0 +1,2 @@
+image_width,image_height,box_xmin,box_xmax,box_ymin,box_ymax,predicted_word
+640,480,42,598,260,328,restaurant

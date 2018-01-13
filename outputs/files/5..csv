@@ -1,0 +1,3 @@
+image_width,image_height,box_xmin,box_xmax,box_ymin,box_ymax,predicted_word
+1280,960,442,1049,330,556,size
+1280,960,468,1033,539,685,queen

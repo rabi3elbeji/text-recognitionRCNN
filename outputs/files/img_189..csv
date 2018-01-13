@@ -1,0 +1,4 @@
+image_width,image_height,box_xmin,box_xmax,box_ymin,box_ymax,predicted_word
+640,448,84,270,197,249,parcel
+640,448,288,532,202,252,systems
+640,448,89,537,102,205,hellmanni

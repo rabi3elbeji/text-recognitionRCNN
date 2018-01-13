@@ -1,0 +1,9 @@
+image_width,image_height,box_xmin,box_xmax,box_ymin,box_ymax,predicted_word
+1280,960,425,667,672,748,went
+1280,960,680,785,705,764,park
+1280,960,619,797,627,694,centrex
+1280,960,430,719,756,831,conference
+1280,960,435,608,614,688,sports
+1280,960,427,525,822,895,car
+1280,960,541,678,834,901,parks
+1280,960,735,890,782,843,centre

@@ -1,0 +1,2 @@
+image_width,image_height,box_xmin,box_xmax,box_ymin,box_ymax,predicted_word
+960,1280,296,564,427,548,floor
